@@ -39,4 +39,26 @@ a. Add a book to the system
 An admin can add a book. On the home page click on Check out Books. Then click on "View Complete list of Books". Then on the bottom of the table, select on "Add a new Book to the Library"
 Enter the details and the book will be added.
 
-b. 
+b. Checkout/return a book on behalf of library member
+On the home page, click on "check out books". Then click on "View complete list of books". When the list opens, click on the the details button for the book whose status is available/unavailable. The admin can checkout the book for another user by entering the email id. If the email id is legal, then the book will be checked out.
+The admin can return the book by clicking on return the book after clicking on the details button for the book which is to be returned.
+
+c. View the list of all books
+On the home page, click on "check out books". Then click on "View complete list of books".
+
+d. View the details of a book. 
+On the home page, click on "check out books". Then click on "View complete list of books". When the list opens, click on the the details button for the book . 
+On the same page, you can see which user currently has the book.
+
+e. Edit the details of a book
+Follow step d. Edit option next to the details will allow to edit book details.
+
+f. Delete a book
+Follow step d. Delete option is next to the edit option. 
+
+5. Manage library members
+
+Click on "check users" option for the admin home page. There you can View the complete list of users. There user can be deleted.
+
+Library Users
+1. Sign up
