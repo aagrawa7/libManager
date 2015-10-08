@@ -61,4 +61,26 @@ Follow step d. Delete option is next to the edit option.
 Click on "check users" option for the admin home page. There you can View the complete list of users. There user can be deleted.
 
 Library Users
-1. Sign up
+1. Sign up is available on the application home page. 
+2. When a user is signed in, the user can perform the following three tasks. 
+
+a. Check out books
+Click on Check out books on the user homepage. Click on either "view complete list of books" or "available books for checkout." A table will show up with existing book name, click on details for a particular book, click on checkout.
+
+b. Return books
+All the books which are checked-out on the user's name, can be returned on clicking the return book option.
+
+c. Search Books 
+Books can be searched by 
+
+
+
+Use cases 
+
+a) If a user is deleted, the checkout history is also deleted.
+
+b) if a book is deleted, the checkout history is also deleted.
+
+c) An admin cannot delete a checked out book
+
+d) An admin cannot delete a user who currently has a book.
